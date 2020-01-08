@@ -1,5 +1,5 @@
 <div ng-if="skCtrl.type == 'form'" class="skeleton form" ng-class="[skCtrl.size, skCtrl.colClass()]">
-    <div class="sk-group" ng-repeat="a in range(skCtrl.fields) track by $index">
+    <div class="sk-group" ng-repeat="n in [].constructor(skCtrl.fields) track by $index">
         <div class="sk-base sk-label"></div>
         <div class="sk-base sk-input"></div>
     </div>
