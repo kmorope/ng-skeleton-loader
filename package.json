@@ -1,6 +1,6 @@
 {
   "name": "ng-skeleton-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Skeleton UI loader for angularjs with predefined templates for ease implementation",
   "main": "ng-skeleton-loader.component.js",
   "scripts": {
@@ -14,5 +14,6 @@
   "devDependencies": {
     "angular-mocks": "^1.7.9",
     "jasmine": "^3.5.0"
-  }
+  },
+  "repository": "https://github.com/kmorope/ng-skeleton-loader"
 }
