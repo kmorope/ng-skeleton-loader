@@ -1,6 +1,6 @@
 {
   "name": "ng-skeleton-loader",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "Skeleton UI loader for angularjs with predefined templates for ease implementation",
   "main": "ng-skeleton-loader.component.js",
   "scripts": {
